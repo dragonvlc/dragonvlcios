@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashLogWriter.m \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashNamespace.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReport.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportApplicationInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportBinaryImageInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportProcessorInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportExceptionInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportThreadInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportStackFrameInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportSymbolInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportRegisterInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportMachineInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportMachExceptionInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportProcessInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportSignalInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashReportSystemInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashLogWriter.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsync.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncImageList.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncMachOImage.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncMObject.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashFrameWalker.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncThread.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncThread_x86.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncThread_arm.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncSymbolication.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncObjCSection.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncMachOString.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashLogWriterEncoding.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashAsyncSignalInfo.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashSysctl.h \
+  /Users/ufoq/projs/vlc/ios/ImportedSources/PLCrashReporter/Source/PLCrashProcessInfo.h
